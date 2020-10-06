@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on Technical Support
+- 🔭 I’m currently working as Technical Support
 - 🌱 I’m currently learning Flutter & Firebase
 - 👯 I’m looking to collaborate on Flutter
 - 🤔 I’m looking for help with AR app.
