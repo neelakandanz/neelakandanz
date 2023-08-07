@@ -3,11 +3,10 @@
          height="45"
          width="45" /> amigos </h1>
 
-- 🔭 I’m currently working as Flutter Developer
+- 🔭 I’m currently working as Full Stack Developer
 - 🤔 I’m Learning Vr and Blockchain apps.
-- 💬 Ask me about 
-- 😄 Pronouns: ME.
-- ⚡ Fun fact: ...
+- 💬 Ask me about tech related stuff and ..
+- ⚡ Fun fact: [today today] || [tommorrow tommorrow]
 
 
 ## 🌐 Socials
