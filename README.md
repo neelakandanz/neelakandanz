@@ -1,3 +1,7 @@
+<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> </h1>
 
 - 🔭 I’m currently working as Flutter Developer
 - 🤔 I’m Working on Vr and Blockchain apps.
@@ -15,3 +19,5 @@
 </p>
 
 - ![](https://komarev.com/ghpvc/?username=your-github-neelakandanz&style=flat-square)
+
+[![](https://visitcount.itsvg.in/api?id=neelakandanz&icon=0&color=1)](https://visitcount.itsvg.in)
