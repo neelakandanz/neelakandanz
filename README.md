@@ -11,7 +11,7 @@
 
 
 ## 🌐 Socials
- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/flutterintamil)
+ [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@flutterintamil)
 
 
 ## 🛒 Apps on Store
