@@ -1,10 +1,10 @@
-<h1 align="center"> Hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> </h1>
+         width="45" /> amigos </h1>
 
 - 🔭 I’m currently working as Flutter Developer
-- 🤔 I’m Working on Vr and Blockchain apps.
+- 🤔 I’m Learning Vr and Blockchain apps.
 - 💬 Ask me about 
 - 😄 Pronouns: ME.
 - ⚡ Fun fact: ...
