@@ -24,4 +24,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=neelakandanz&theme=vue"/>
 </p>
 
-![](https://komarev.com/ghpvc/?username=your-github-neelakandanz&style=flat-square)
+##![](https://komarev.com/ghpvc/?username=your-github-neelakandanz&style=flat-square)
