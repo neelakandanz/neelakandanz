@@ -1,7 +1,4 @@
-<h2 align="center">யாதும் ஊரே 🌎 யாவரும் கேளிர் 👫</h2>
-<h4 align="center">I am a world citizen 🌎 Every citizen is my own kith and kin 👫</h4>
-
-<h1 align="center"> hola, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+<h1 align="center"> , <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
          width="45" />  </h1>
