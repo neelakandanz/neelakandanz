@@ -3,9 +3,9 @@
          height="45"
          width="45" />  </h1>
 
-- 🙂  &nbsp;Just a tech engineer turned into a software engineer
-- ஃ   &nbsp;enthusiastic engineer
-- 🎩  &nbsp;Interested in Backend engineering, Cloud native technologies and Mobile devlopment using Flutter
+- 🙂  &nbsp;A tech engineer turned into a software engineer
+- ஃ   &nbsp;enthusiastic full stack engineer
+- 🎩  &nbsp;Interested in Backend engineering,Augmented reality.
 - 🌱  &nbsp;Currently learning 👓🕹
         
 
