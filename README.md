@@ -3,7 +3,7 @@
          height="45"
          width="45" />  </h1>
 
-- 🙂  &nbsp;A tech engineer turned into a software engineer
+- 🙂  &nbsp;software engineer
 - ஃ   &nbsp;enthusiastic full stack engineer
 - 🎩  &nbsp;Interested in Backend engineering,Augmented reality.
 - 🌱  &nbsp;Currently learning 👓🕹
